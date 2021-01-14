@@ -32,9 +32,9 @@ body{
 }
 .grid{
     display: flex;
-    border: black;
-    margin
-    justify-content: space-around;
+    border: solid;
+    border-color: blanchedalmond;
+    margin;
 }
 
 item{
